@@ -4,11 +4,17 @@ I'm Guilherme Martins,  I'm a Software Engineer focused in Frontend and Mobile a
 
 [![Linkedin: Guilherme](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-martins-0625041b2)](https://www.linkedin.com/in/guilherme-martins-0625041b2/) [![Email: Guilherme](https://img.shields.io/badge/-Professional%20Email-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:g.santosmartins@outlook.com)](mailto:g.santosmartins@outlook.com)
 
-<div align="center">
-  <a href="https://github.com/g-santosmartins">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=g-santosmartins&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-santosmartins&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+
+<table cellpadding="0" border="0" style="padding:0;border:0;margin:0;">
+  <tr>
+    <td valign="top" style="border:0;">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=g-santosmartins&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td valign="top" style="border:0;">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-santosmartins&langs_count=6&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 
 ## ⚡ Technologies
