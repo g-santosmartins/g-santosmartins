@@ -1,6 +1,8 @@
  ### Hi there, glad to see you here 👋
 
-I'm Guilherme Martins,  I'm a Software Engineer focused in React, Java (Spring) and Kotlin.
+I'm Guilherme Martins,  I'm a Software Engineer focused in React, Java (Spring) and Kotlin, graduated in systems analysis and development in FATEC Garça, São Paulo Brasil.
+
+Final paper(TCC): Comming soon
 
 [![Linkedin: Guilherme](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-martins-0625041b2)](https://www.linkedin.com/in/guilherme-martins-0625041b2/) [![Email: Guilherme](https://img.shields.io/badge/-Professional%20Email-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:g.santosmartins@outlook.com)](mailto:g.santosmartins@outlook.com)
 
