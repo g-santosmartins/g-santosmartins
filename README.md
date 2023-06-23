@@ -1,6 +1,6 @@
  ### Hi there, glad to see you here 👋
 
-I'm Guilherme Martins, software engineer focused in React, Java (Spring) and Kotlin, graduated in systems analysis and development in FATEC - College of Technology of Garça, São Paulo, Brasil.
+I'm Guilherme Martins, software engineer focused in React, Java (Spring) and Kotlin, graduated in systems analysis and development in FATEC - College of Technology of Garça, São Paulo, Brazil.
 
 Final paper(TCC): Comming soon
 
