@@ -1,4 +1,9 @@
- ### Hi there, glad to see you here 👋
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Guilherme+Martins;Full+Stack+Developer+focused+in+Startups;Glad+see+you+here!)](https://git.io/typing-svg)
+
+ ### Let me introduce myself 👋
 
 I'm Guilherme Martins, software engineer focused in React, Node.js, Java (Spring Boot) and Kotlin, graduated in systems analysis and development in FATEC - College of Technology of Garça, São Paulo, Brazil.
 
@@ -50,3 +55,6 @@ These are some of the technologies and tools that I work with:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer"/>
