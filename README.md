@@ -7,8 +7,9 @@
 
 I'm Guilherme Martins, software engineer focused in React, Node.js, Java (Spring Boot) and Kotlin, graduated in systems analysis and development in FATEC - College of Technology of Garça, São Paulo, Brazil.
 
-## Final paper(TCC) 🔎
+## Final paper(TCC) - Fatec Garça - degree in analysis and systems development 🔎
 
+Final Paper Document (TCC): https://drive.google.com/file/d/1cly7pu_z8f6nZY4OkhKfEnHHrnSiM4np/view?usp=drive_link
 Figma Design UX and UI usecase: https://www.figma.com/file/7kLfqZ91L9fZMJLsfOctAu/Farejopet---Mocks?type=design&node-id=0%3A1&mode=design&t=ahskI0Bslh9Qi1Cu-1
 
 [![Linkedin: Guilherme](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-martins-0625041b2)](https://www.linkedin.com/in/guilherme-martins-0625041b2/) [![Email: Guilherme](https://img.shields.io/badge/-Professional%20Email-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:g.santosmartins@outlook.com)](mailto:g.santosmartins@outlook.com)
